@@ -41,10 +41,10 @@ function UC(){
     if (command[0] == 0b100) {
       return command[2];
     }
-    console.log("command: "+ command[0].toString(2)+", " +
-                             command[1].toString(2)+", " +
+    $("#webconsole").append('command: '+ command[0].toString(2)+', ' +
+                             command[1].toString(2)+', ' +
                              command[2].toString(2)+
-                             " Resultado: "+ula.calcule(command).toString(2));
+                             ' Resultado: '+ula.calcule(command).toString(2)+"<br>");
     return cp + 1;
   }
 }

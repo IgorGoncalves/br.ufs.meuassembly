@@ -68,6 +68,15 @@ textarea, button {
   margin-top: 28px;
 }
 
+#webconsole {
+  min-height: 30vh;
+  color: white;
+  background: black;
+  padding: 10px;
+  border-radius: 4px;
+  margin-bottom: 10px;
+}
+
 /* Responsive: Portrait tablets and up */
 @media screen and (min-width: 768px) {
   .container {
