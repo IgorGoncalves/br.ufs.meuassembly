@@ -8,6 +8,8 @@ Foi ainda elaborada uma interface web que possibilite a escrita e tradução de 
 - sum: Soma dois valores
 - sub: Subtrai segunda valor do primeiro
 - sqt: Multiplica dois valores
-- jmp: altera ordem de execução para posição do endereco
+- jmp: altera ordem de execução para posição do endereço
 
-![imagem de aplicaça para escrita de código assembly](https://github.com/IgorGoncalves/br.ufs.meuassembly/blob/master/decodificador-assembly.png?raw=true)
+Clique na imagem abaixo para experimentar:
+
+[![imagem de aplicaça para escrita de código assembly](https://github.com/IgorGoncalves/br.ufs.meuassembly/blob/master/decodificador-assembly.png?raw=true)](https://igorgoncalves.github.io/meuassembly.github.io/)
